@@ -10,7 +10,7 @@ Senior Software Engineer focused on building scalable backend systems and evolvi
 - 🏗 Strong focus on system design, performance and high-availability platforms  
 - 🤖 Currently building and experimenting with AI/LLM-based systems (RAG, agents, automation)  
 - 📈 Interested in bridging traditional backend engineering with AI-driven solutions  
-- 📚 Continuous learner, aiming for Staff / Principal Engineer level  
+- 📚 Continuous learner
 
 ---
 
